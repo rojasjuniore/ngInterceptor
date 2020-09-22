@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngInterceptor"
+    }
+  },
+  "defaultProject": "ngInterceptor",
+  "cli": {
+    "analytics": "63a5991c-93b5-4050-a2b5-28a31285e2d6"
+  }
 }
